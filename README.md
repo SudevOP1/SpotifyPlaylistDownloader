@@ -30,6 +30,7 @@ SPOTIFY_CLIENT_ID       = xxx
 SPOTIFY_CLIENT_SECRET   = xxx
 YOUTUBE_API_KEY         = xxx
 ```
+<br>
 
 ## 📝 Notes
 - Only the first matching YouTube video's audio is downloaded for each song
