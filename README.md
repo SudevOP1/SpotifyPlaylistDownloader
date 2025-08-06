@@ -21,7 +21,7 @@ This is a Python-based tool that automatically downloads all the songs from a gi
 
 ### 1. 🔧 Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r packages.txt
 ```
 
 ### 2. Ensure your .env file contains the following:
